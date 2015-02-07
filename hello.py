@@ -16,3 +16,5 @@ print s1, s2
 print "second commit"
 for i in "ahmadi":
     print i
+for i in range(20):
+    print i
