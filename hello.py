@@ -10,3 +10,6 @@ print 17/3
 print 17/ 3.0
 print 5**3
 print "hassan"
+s1='spam eggs'
+s2='doesn\''
+print s1, s2
