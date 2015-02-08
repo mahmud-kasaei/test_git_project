@@ -23,3 +23,5 @@ while(i>10):
     print i
     i-=5
 print "ammend"
+for i in range(3):
+    print "commit 1 and push it to github %d", i
