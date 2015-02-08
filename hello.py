@@ -18,3 +18,7 @@ for i in "ahmadi":
     print i
 for i in range(20):
     print i
+i=70
+while(i>10):
+    print i
+    i-=5
